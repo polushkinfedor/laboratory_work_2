@@ -1,0 +1,97 @@
+Organisation name: Mai | address: Volokolamskoe avenue 6 | chief surname: Pogosyan
+	TYPE | DATE
+1. Post 23.02.2002
+2. Small Package 20.10.1999
+3. Telegram 03.08.2009
+4. Post 23.08.2007
+5. Email 18.08.2019
+6. Post 28.02.2002
+7. Small Package 20.03.1999
+8. Telegram 13.08.2009
+9. Post 21.02.2007
+10. Email 28.04.2029
+11. Post 20.01.2002
+12. Small Package 20.03.1999
+13. Telegram 13.08.2002
+14. Post 21.08.2003
+15. Email 28.08.2019
+16. Post 20.02.2001
+17. Small Package 20.03.1997
+18. Telegram 13.08.2001
+19. Post 21.02.2007
+20. Email 28.03.2019
+----------------------------------------------------------------
+Organisation name: Uac | address: Polickarpov street 23A | chief surname: Slysar
+	TYPE | DATE
+1. Small Package 19.07.2015
+2. Email 28.01.2011
+3. Email 13.12.2013
+1. Post 20.01.2012
+2. Small Package 10.03.1999
+3. Telegram 13.02.2009
+4. Post 11.08.2007
+5. Email 18.08.2019
+6. Post 22.02.2002
+7. Small Package 28.05.1999
+8. Post 12.08.2007
+9. Email 28.08.2009
+10. Post 20.02.2002
+11. Small Package 20.03.1999
+12. Telegram 13.08.2012
+13. Post 20.07.2007
+14. Email 28.12.2015
+----------------------------------------------------------------
+Organisation name: Moscow | address: Russia | chief surname: Sobyanin
+	TYPE | DATE
+1. Parcel 12.12.1980
+2. Small Package 13.08.1998
+----------------------------------------------------------------
+Organisation name: Belarus | address: Europe | chief surname: Lukashenko
+	TYPE | DATE
+1. Email 20.08.2009
+2. Parcel 27.01.1991
+3. Email 20.04.2005
+4. Email 22.08.2004
+5. Email 20.06.2002
+6. Parcel 21.08.2024
+7. Email 18.09.2023
+8. Email 20.02.2012
+9. Email 25.04.2014
+10. Email 26.07.2014
+11. Email 20.08.2004
+12. Email 23.08.2024
+13. Post 20.08.1994
+14. Email 20.08.2024
+15. Post 14.08.2017
+16. Post 30.03.2007
+17. Small Package 04.03.2004
+18. Small Package 19.07.2015
+19. Email 28.08.2029
+20. Email 13.11.2031
+21. Post 20.02.1992
+22. Small Package 20.03.1999
+23. Telegram 13.08.2009
+24. Post 21.08.2007
+25. Email 28.08.2019
+26. Post 20.07.2001
+27. Small Package 10.03.1999
+28. Post 21.07.2007
+29. Email 28.08.2019
+30. Post 20.01.2002
+31. Small Package 24.03.1999
+32. Telegram 13.09.2009
+33. Post 21.03.2007
+34. Email 28.08.2029
+----------------------------------------------------------------
+Organisation name: Russia | address: Russia is Russia | chief surname: Putin
+	TYPE | DATE
+1. Post 14.08.2007
+2. Post 30.03.2007
+3. Small Package 04.03.2004
+----------------------------------------------------------------
+Organisation name: Uzbek | address: Okraina rusi | chief surname: Amir
+\\we haven't information about correspondence this organisation
+----------------------------------------------------------------
+correspondence without information about organisation
+1. Parcel 30.03.2018 MIREA
+2. Telegram 13.04.2005 MIREA

@@ -1,0 +1,85 @@
+field of sort: Date | direction of sorting is: From smaller to larger
+
+|-----------|----------------------------------|------------------------|-----------------|-----------------|
+|     DATE: |                         ADDRESS: |     ORGANISATION NAME: |  CHIEF SURNAME: |           TYPE: |
+|-----------|----------------------------------|------------------------|-----------------|-----------------|
+|12.12.1980 |                           Russia |                 Moscow |        Sobyanin |          Parcel |
+|27.01.1991 |                           Europe |                Belarus |      Lukashenko |          Parcel |
+|20.02.1992 |                           Europe |                Belarus |      Lukashenko |            Post |
+|20.08.1994 |                           Europe |                Belarus |      Lukashenko |            Post |
+|20.03.1997 |           Volokolamskoe avenue 6 |                    Mai |        Pogosyan |   Small Package |
+|13.08.1998 |                           Russia |                 Moscow |        Sobyanin |   Small Package |
+|10.03.1999 |                           Europe |                Belarus |      Lukashenko |   Small Package |
+|10.03.1999 |           Polickarpov street 23A |                    Uac |          Slysar |   Small Package |
+|20.03.1999 |           Volokolamskoe avenue 6 |                    Mai |        Pogosyan |   Small Package |
+|20.03.1999 |           Volokolamskoe avenue 6 |                    Mai |        Pogosyan |   Small Package |
+|20.03.1999 |           Polickarpov street 23A |                    Uac |          Slysar |   Small Package |
+|20.03.1999 |                           Europe |                Belarus |      Lukashenko |   Small Package |
+|24.03.1999 |                           Europe |                Belarus |      Lukashenko |   Small Package |
+|28.05.1999 |           Polickarpov street 23A |                    Uac |          Slysar |   Small Package |
+|20.10.1999 |           Volokolamskoe avenue 6 |                    Mai |        Pogosyan |   Small Package |
+|20.02.2001 |           Volokolamskoe avenue 6 |                    Mai |        Pogosyan |            Post |
+|20.07.2001 |                           Europe |                Belarus |      Lukashenko |            Post |
+|13.08.2001 |           Volokolamskoe avenue 6 |                    Mai |        Pogosyan |        Telegram |
+|20.01.2002 |                           Europe |                Belarus |      Lukashenko |            Post |
+|20.01.2002 |           Volokolamskoe avenue 6 |                    Mai |        Pogosyan |            Post |
+|20.02.2002 |           Polickarpov street 23A |                    Uac |          Slysar |            Post |
+|22.02.2002 |           Polickarpov street 23A |                    Uac |          Slysar |            Post |
+|23.02.2002 |           Volokolamskoe avenue 6 |                    Mai |        Pogosyan |            Post |
+|28.02.2002 |           Volokolamskoe avenue 6 |                    Mai |        Pogosyan |            Post |
+|20.06.2002 |                           Europe |                Belarus |      Lukashenko |           Email |
+|13.08.2002 |           Volokolamskoe avenue 6 |                    Mai |        Pogosyan |        Telegram |
+|21.08.2003 |           Volokolamskoe avenue 6 |                    Mai |        Pogosyan |            Post |
+|04.03.2004 |                           Europe |                Belarus |      Lukashenko |   Small Package |
+|04.03.2004 |                 Russia is Russia |                 Russia |           Putin |   Small Package |
+|20.08.2004 |                           Europe |                Belarus |      Lukashenko |           Email |
+|22.08.2004 |                           Europe |                Belarus |      Lukashenko |           Email |
+|13.04.2005 |                                - |                  MIREA |               - |        Telegram |
+|20.04.2005 |                           Europe |                Belarus |      Lukashenko |           Email |
+|21.02.2007 |           Volokolamskoe avenue 6 |                    Mai |        Pogosyan |            Post |
+|21.02.2007 |           Volokolamskoe avenue 6 |                    Mai |        Pogosyan |            Post |
+|21.03.2007 |                           Europe |                Belarus |      Lukashenko |            Post |
+|30.03.2007 |                 Russia is Russia |                 Russia |           Putin |            Post |
+|30.03.2007 |                           Europe |                Belarus |      Lukashenko |            Post |
+|20.07.2007 |           Polickarpov street 23A |                    Uac |          Slysar |            Post |
+|21.07.2007 |                           Europe |                Belarus |      Lukashenko |            Post |
+|11.08.2007 |           Polickarpov street 23A |                    Uac |          Slysar |            Post |
+|12.08.2007 |           Polickarpov street 23A |                    Uac |          Slysar |            Post |
+|14.08.2007 |                 Russia is Russia |                 Russia |           Putin |            Post |
+|21.08.2007 |                           Europe |                Belarus |      Lukashenko |            Post |
+|23.08.2007 |           Volokolamskoe avenue 6 |                    Mai |        Pogosyan |            Post |
+|13.02.2009 |           Polickarpov street 23A |                    Uac |          Slysar |        Telegram |
+|03.08.2009 |           Volokolamskoe avenue 6 |                    Mai |        Pogosyan |        Telegram |
+|13.08.2009 |                           Europe |                Belarus |      Lukashenko |        Telegram |
+|13.08.2009 |           Volokolamskoe avenue 6 |                    Mai |        Pogosyan |        Telegram |
+|20.08.2009 |                           Europe |                Belarus |      Lukashenko |           Email |
+|28.08.2009 |           Polickarpov street 23A |                    Uac |          Slysar |           Email |
+|13.09.2009 |                           Europe |                Belarus |      Lukashenko |        Telegram |
+|28.01.2011 |           Polickarpov street 23A |                    Uac |          Slysar |           Email |
+|20.01.2012 |           Polickarpov street 23A |                    Uac |          Slysar |            Post |
+|20.02.2012 |                           Europe |                Belarus |      Lukashenko |           Email |
+|13.08.2012 |           Polickarpov street 23A |                    Uac |          Slysar |        Telegram |
+|13.12.2013 |           Polickarpov street 23A |                    Uac |          Slysar |           Email |
+|25.04.2014 |                           Europe |                Belarus |      Lukashenko |           Email |
+|26.07.2014 |                           Europe |                Belarus |      Lukashenko |           Email |
+|19.07.2015 |                           Europe |                Belarus |      Lukashenko |   Small Package |
+|19.07.2015 |           Polickarpov street 23A |                    Uac |          Slysar |   Small Package |
+|28.12.2015 |           Polickarpov street 23A |                    Uac |          Slysar |           Email |
+|14.08.2017 |                           Europe |                Belarus |      Lukashenko |            Post |
+|30.03.2018 |                                - |                  MIREA |               - |          Parcel |
+|28.03.2019 |           Volokolamskoe avenue 6 |                    Mai |        Pogosyan |           Email |
+|18.08.2019 |           Polickarpov street 23A |                    Uac |          Slysar |           Email |
+|18.08.2019 |           Volokolamskoe avenue 6 |                    Mai |        Pogosyan |           Email |
+|28.08.2019 |                           Europe |                Belarus |      Lukashenko |           Email |
+|28.08.2019 |           Volokolamskoe avenue 6 |                    Mai |        Pogosyan |           Email |
+|28.08.2019 |                           Europe |                Belarus |      Lukashenko |           Email |
+|18.09.2023 |                           Europe |                Belarus |      Lukashenko |           Email |
+|20.08.2024 |                           Europe |                Belarus |      Lukashenko |           Email |
+|21.08.2024 |                           Europe |                Belarus |      Lukashenko |          Parcel |
+|23.08.2024 |                           Europe |                Belarus |      Lukashenko |           Email |
+|28.04.2029 |           Volokolamskoe avenue 6 |                    Mai |        Pogosyan |           Email |
+|28.08.2029 |                           Europe |                Belarus |      Lukashenko |           Email |
+|28.08.2029 |                           Europe |                Belarus |      Lukashenko |           Email |
+|13.11.2031 |                           Europe |                Belarus |      Lukashenko |           Email |
+|         - |                     Okraina rusi |                  Uzbek |            Amir |               - |
+|-----------|----------------------------------|------------------------|-----------------|-----------------|
